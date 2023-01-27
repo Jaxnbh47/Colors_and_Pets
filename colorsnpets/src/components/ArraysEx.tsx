@@ -22,9 +22,9 @@ export function ArraysEx() {
     setPets(pets.filter(pet => pet.id !== id));
   }
 
-  function Pets(color: string): void {
-    setColors([...colors, color]);
-  }
+  // function Pets(color: string): void {
+  //   setColors([...colors, color]);
+  // }
 
   return (
     <div>
