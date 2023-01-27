@@ -1,0 +1,56 @@
+.petNames{
+  padding-right: 20px;
+}
+
+.petTypes{
+  padding-left: 20px;
+}
+
+.NameTitle {
+  padding-right: 20px;
+}
+
+.TypeTitle {
+  padding-left: 20px;
+}
+
+
+.petDelete{
+  padding-left: 20px;
+}
+
+.pDelete {
+  margin-left: 20px;
+}
+
+.Greenb:hover{
+  background-color: green;
+}
+
+.Blueb:hover{
+  background-color: blue;
+}
+
+.Violetb:hover{
+  background-color: violet;
+}
+
+.Greenb {
+  transform: translateX(2px);
+}
+
+.Blueb {
+  transform: translateX(4px);
+}
+
+.Violetb {
+  transform: translateX(6px);
+}
+
+.pDelete:hover{
+  background-color: red;
+}
+
+.Colortop {
+  margin-top: 35px;
+}
